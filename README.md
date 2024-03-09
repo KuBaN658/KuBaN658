@@ -33,12 +33,6 @@ I'm a data scientist from Russia.
   <img src="https://komarev.com/ghpvc/?username=KuBaN658&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 <!--
 **KuBaN658/KuBaN658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
