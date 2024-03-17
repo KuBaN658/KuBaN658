@@ -1,7 +1,7 @@
 ### Hi!!! 👋<br>
 <strong>I'm Dmitriy Zharkovskiy.</strong>
 
-Это мое [портфолио](http://zharkovski-dmitri.ru.website.yandexcloud.net/blog.html "портфолио")
+This is my [portfolio](http://zharkovski-dmitri.ru.website.yandexcloud.net/blog.html "portfolio")
 
 ### 👨‍💻 About Me :
 I'm a data scientist from Russia.
