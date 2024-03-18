@@ -1,8 +1,6 @@
 ### Hi!!! 👋<br>
 <strong>I'm Dmitriy Zharkovskiy.</strong>
 
-This is my [portfolio](http://zharkovski-dmitri.ru.website.yandexcloud.net/blog.html "portfolio")
-
 ### 👨‍💻 About Me :
 I'm a data scientist from Russia.
 - I love math and experiments
@@ -37,8 +35,13 @@ I'm a data scientist from Russia.
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1.   | [Телеграм бот - Перенос стиля фотографии](https://github.com/KuBaN658/telebot) | Выбор лучшей модели для увеличения <br/>показателей технологического процесса <br/>обогащения золота | Python, Pytorch, Aiogram, Docker       |
-| 2.   | [Прогноз количества заказов для сервиса такси](https://github.com/aq2003/Portfolio/tree/main/Taxi%20Service) | Прогноз количества заказов в аэропортах <br/>для сервиса такси с целью более точного планирования количества доступных <br/>автомобилей | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
-| 3.   | [Анализ текстов](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |](https://github.com/KuBaN658)https://github.com/KuBaN658
+| 2.   | [Анализ заведений общественного питания г.Москвы](http://zharkovski-dmitri.ru.website.yandexcloud.net/projects/cafe_analysis.html) | Аналитика заведений общественного питания | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
+| 3.   | [Анализ продаж интернет магазина](http://zharkovski-dmitri.ru.website.yandexcloud.net/projects/powerbi_wb.pdf) | Аналитика продаж и финансовых показателей интернет магазина.             | Power Bi |
+| 4.   | [Российский кинопрокат](http://zharkovski-dmitri.ru.website.yandexcloud.net/projects/film_analysis.html) | Аналитика рынка российского кинопроката и выявление текущих трендов.     | Python, Pandas, Seaborn, Matplolib, Numpy, Regex |
+| 5.   | [Лояльность пользователей](https://public.tableau.com/app/profile/.78138872/viz/NetPromoterScore_17083280703130/sheet15) | Исследование опроса клиентов телекомунникацонной компании.     | Tableau |
+| 6.   | [Яндекс музыка](http://zharkovski-dmitri.ru.website.yandexcloud.net/projects/yandex_music.html) | Сравнение пользователей Яндекс музыки в разрезе двух городов - Москвы и Петербурга.     | Python, Pandas, Seaborn, Matplolib |
+| 7.   | [Анализ заемщиков](http://zharkovski-dmitri.ru.website.yandexcloud.net/projects/credit_scoring_model.html) | Исследование надёжности заёмщиков — анализ банковских данных.     | Python, Pandas, Seaborn, Matplolib |
+| 8.   | [Дурак без козырей](http://zharkovski-dmitri.ru.website.yandexcloud.net/projects/credit_scoring_model.html) | Имитация игры в дурака без козырей двумя игроками.    | Python, ООП |
 
 
 <div id="badges" align="center">
