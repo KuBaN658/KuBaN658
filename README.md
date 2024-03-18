@@ -41,7 +41,7 @@ I'm a data scientist from Russia.
 | 5.   | [Лояльность пользователей](https://public.tableau.com/app/profile/.78138872/viz/NetPromoterScore_17083280703130/sheet15) | Исследование опроса клиентов телекомунникацонной компании.     | Tableau |
 | 6.   | [Яндекс музыка](http://zharkovski-dmitri.ru.website.yandexcloud.net/projects/yandex_music.html) | Сравнение пользователей Яндекс музыки в разрезе двух городов - Москвы и Петербурга.     | Python, Pandas, Seaborn, Matplolib |
 | 7.   | [Анализ заемщиков](http://zharkovski-dmitri.ru.website.yandexcloud.net/projects/credit_scoring_model.html) | Исследование надёжности заёмщиков — анализ банковских данных.     | Python, Pandas, Seaborn, Matplolib |
-| 8.   | [Дурак без козырей](http://zharkovski-dmitri.ru.website.yandexcloud.net/projects/credit_scoring_model.html) | Имитация игры в дурака без козырей двумя игроками.    | Python, ООП |
+| 8.   | [Дурак без козырей](https://github.com/KuBaN658/fool_without_trump) | Имитация игры в дурака без козырей двумя игроками.    | Python, ООП |
 
 
 <div id="badges" align="center">
