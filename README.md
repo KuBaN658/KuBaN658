@@ -32,6 +32,14 @@ I'm a data scientist from Russia.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuBaN658&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🎆: Portfolio
+
+| #    | Наименование проекта                | Описание                                                     | Стек                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1.   | [Телеграм бот - Перенос стиля фотографии](https://github.com/KuBaN658/telebot) | Выбор лучшей модели для увеличения <br/>показателей технологического процесса <br/>обогащения золота | Python, Pytorch, Aiogram, Docker       |
+| 2.   | [Прогноз количества заказов для сервиса такси](https://github.com/aq2003/Portfolio/tree/main/Taxi%20Service) | Прогноз количества заказов в аэропортах <br/>для сервиса такси с целью более точного планирования количества доступных <br/>автомобилей | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
+| 3.   | [Анализ текстов](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |](https://github.com/KuBaN658)https://github.com/KuBaN658
+
 
 <div id="badges" align="center">
   <a href="https://stepik.org/users/562531453/">
