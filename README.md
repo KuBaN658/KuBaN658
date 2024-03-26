@@ -14,7 +14,7 @@
   
 
 ### 👨‍💻 About Me :
-I'm a data scientist from Russia.
+I'm a data analyst from Russia.
 - I love math and experiments
 - I enjoy solving very difficult problems
   
