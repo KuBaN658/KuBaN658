@@ -1,5 +1,17 @@
 ### Hi!!! 👋<br>
-<strong>I'm Dmitriy Zharkovskiy.</strong>
+<strong>I'm Dmitriy Zharkovskiy.</strong><br>
+<div id="badges" align="left">
+  <a href="https://t.me/KuBaN_123">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://stepik.org/users/562531453/">
+    <img src="https://img.shields.io/badge/Stepik-black?style=for-the-badge&logo=stepik&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/garkovski_dmitri/">
+    <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="LinkedIn Badge"/>
+  </a><br>
+</div>
+  
 
 ### 👨‍💻 About Me :
 I'm a data scientist from Russia.
@@ -44,13 +56,8 @@ I'm a data scientist from Russia.
 | 8.   | [Дурак без козырей](https://github.com/KuBaN658/fool_without_trump) | Имитация игры в дурака без козырей двумя игроками.    | Python, ООП |
 
 
-<div id="badges" align="center">
-  <a href="https://stepik.org/users/562531453/">
-    <img src="https://img.shields.io/badge/Stepik-black?style=for-the-badge&logo=stepik&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://leetcode.com/garkovski_dmitri/">
-    <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="LinkedIn Badge"/>
-  </a><br>
+<div id="badge" align="center">
+
   <img src="https://komarev.com/ghpvc/?username=KuBaN658&style=flat-square&color=blue" alt=""/>
 </div>
 
