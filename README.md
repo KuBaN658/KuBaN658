@@ -46,7 +46,7 @@ I'm a data analyst from Russia.
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Телеграм бот - Перенос стиля фотографии](https://github.com/KuBaN658/telebot) | Перенос стиля с одной фотографии на другую<br> с помощью алкгоритма transfer learning. | Python, Pytorch, Aiogram, Docker       |
+| 1.   | [Телеграм бот - Перенос стиля фотографии](https://github.com/KuBaN658/telebot) | Перенос стиля с одной фотографии на другую<br> с помощью алгоритма transfer learning. | Python, Pytorch, Aiogram, Docker       |
 | 2.   | [Анализ затрат на рекламу](https://github.com/KuBaN658/Procrastinate-Pro-) | Анализ расходов на рекламу развлекательного приложения. | Python, pandas, numpy, seaborn, matplotlib      |
 | 3.   | [Анализ заведений общественного питания г.Москвы](http://zharkovski-dmitri.ru.website.yandexcloud.net/projects/cafe_analysis.html) | Аналитика заведений общественного питания | python, pandas, numpy, statsmodels, matplotlib |
 | 4.   | [Анализ продаж интернет магазина](http://zharkovski-dmitri.ru.website.yandexcloud.net/projects/powerbi_wb.pdf) | Аналитика продаж и финансовых показателей интернет магазина.             | Power Bi |
