@@ -47,12 +47,12 @@ I'm a data analyst from Russia.
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1.   | [Анализ вакансий](https://github.com/KuBaN658/vacancy_analysis/tree/main) | Анализ вакансий Data Analyst и Data Science и выявление необходимых навыков востребованных на рынке труда. | Pandas, Matplotlib, Seaborn, Datalens, requests, numpy, pymystem3      |
-| 1.   | [Телеграм бот - Перенос стиля фотографии](https://github.com/KuBaN658/telebot) | Перенос стиля с одной фотографии на другую<br> с помощью алгоритма transfer learning. | Python, Pytorch, Aiogram, Docker       |
-| 2.   | [Анализ затрат на рекламу](https://github.com/KuBaN658/Procrastinate-Pro-) | Анализ расходов на рекламу развлекательного приложения. | Python, pandas, numpy, seaborn, matplotlib      |
-| 3.   | [Анализ заведений общественного питания г.Москвы](http://zharkovski-dmitri.ru.website.yandexcloud.net/projects/cafe_analysis.html) | Аналитика заведений общественного питания | python, pandas, numpy, statsmodels, matplotlib |
-| 4.   | [Анализ продаж интернет магазина](http://zharkovski-dmitri.ru.website.yandexcloud.net/projects/powerbi_wb.pdf) | Аналитика продаж и финансовых показателей интернет магазина.             | Power Bi |
-| 5.   | [Лояльность пользователей](https://public.tableau.com/app/profile/.78138872/viz/NetPromoterScore_17083280703130/sheet15) | Исследование опроса клиентов телекомунникацонной компании.     | Tableau |
-| 6.   | [Дурак без козырей](https://github.com/KuBaN658/fool_without_trump) | Имитация игры в дурака без козырей двумя игроками.    | Python, ООП |
+| 2.   | [Телеграм бот - Перенос стиля фотографии](https://github.com/KuBaN658/telebot) | Перенос стиля с одной фотографии на другую<br> с помощью алгоритма transfer learning. | Python, Pytorch, Aiogram, Docker       |
+| 3.   | [Анализ затрат на рекламу](https://github.com/KuBaN658/Procrastinate-Pro-) | Анализ расходов на рекламу развлекательного приложения. | Python, pandas, numpy, seaborn, matplotlib      |
+| 4.   | [Анализ заведений общественного питания г.Москвы](http://zharkovski-dmitri.ru.website.yandexcloud.net/projects/cafe_analysis.html) | Аналитика заведений общественного питания | python, pandas, numpy, statsmodels, matplotlib |
+| 5.   | [Анализ продаж интернет магазина](http://zharkovski-dmitri.ru.website.yandexcloud.net/projects/powerbi_wb.pdf) | Аналитика продаж и финансовых показателей интернет магазина.             | Power Bi |
+| 6.   | [Лояльность пользователей](https://public.tableau.com/app/profile/.78138872/viz/NetPromoterScore_17083280703130/sheet15) | Исследование опроса клиентов телекомунникацонной компании.     | Tableau |
+| 7.   | [Дурак без козырей](https://github.com/KuBaN658/fool_without_trump) | Имитация игры в дурака без козырей двумя игроками.    | Python, ООП |
 
 
 <div id="badge" align="center">
