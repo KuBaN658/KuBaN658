@@ -46,7 +46,7 @@ I'm a data analyst from Russia.
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Анализ вакансий](https://github.com/KuBaN658/vacancy_analysis/tree/main) | Анализ вакансий Data Analyst и Data Science и выявление необходимых навыков востребованных на рынке труда. | Pandas, Matplotlib, Seaborn, Datalens, requests, numpy, pymystem3      |
+| 1.   | [Анализ вакансий](https://github.com/KuBaN658/vacancy_analysis/tree/main) | Анализ вакансий Data Analyst и Data Science и выявление необходимых навыков востребованных на рынке труда. | Pandas, Matplotlib, Seaborn, Datalens, requests, numpy, pymystem3, transformers, SHAP, catboost      |
 | 2.   | [Телеграм бот - Перенос стиля фотографии](https://github.com/KuBaN658/telebot) | Перенос стиля с одной фотографии на другую<br> с помощью алгоритма transfer learning. | Python, Pytorch, Aiogram, Docker       |
 | 3.   | [Анализ затрат на рекламу](https://github.com/KuBaN658/Procrastinate-Pro-) | Анализ расходов на рекламу развлекательного приложения. | Python, pandas, numpy, seaborn, matplotlib      |
 | 4.   | [Анализ заведений общественного питания г.Москвы](http://zharkovski-dmitri.ru.website.yandexcloud.net/projects/cafe_analysis.html) | Аналитика заведений общественного питания | python, pandas, numpy, statsmodels, matplotlib |
